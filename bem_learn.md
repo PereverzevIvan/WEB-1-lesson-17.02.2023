@@ -18,3 +18,10 @@
 + .рука__предплечье
 + .рука__запястье
 + .рука__палец
+---
+## Задание №2 - БЭМ по макету (5 вариант)
+### Header
+![header](/header.png)
+```
+header.header>div.header__container>(a.header__logo>img)+(nav.header__nav>a.header__link*5)+button.btn
+```
