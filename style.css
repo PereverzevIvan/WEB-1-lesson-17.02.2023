@@ -1,0 +1,24 @@
+.container {}
+
+.container__card {}
+
+.card {}
+
+.card_size_big {}
+.card--size_big {}
+
+.card--theme_red {}
+
+.card--hidden {}
+
+.card__icon {}
+
+.card__title {}
+
+.card__text {}
+
+.card__list {}
+
+.card__item {}
+
+.card__item--underlined {}
