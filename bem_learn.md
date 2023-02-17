@@ -38,3 +38,9 @@ form.form>(label.form__label.form__label--hidden+input.form__input)*2+(div.separ
 ```
 ul.posts-cards>(li.posts-card__>a>img+p.common-text.common-text--size_medium.common-text--color_black+p.common-text.common-text--color_light-gray)*3
 ```
+
+### Свой элемент
+![custom element](/custom.png)
+```
+footer.footer>.container>(.footer__head>(a.footer__logo>img)ul.footer__nav>li.footer__link*5)+(.footer__contacts>a.footer__link+.footer__social-networks>a.social-network)+p.common-text.common-text--color_light-gray+.footer__underline-text>a.footer__last-link*2
+```
